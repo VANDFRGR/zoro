@@ -8,10 +8,12 @@ header{
 .mainlink {
     border: 5px solid #58EE00;
     border-radius: 30px;
+    padding:10px;
 }
 nav a {
     border: 5px solid #000000;
 border-radius: 30px;
+    padding:10px;
 }
 main img{
     margin-left:331px;
