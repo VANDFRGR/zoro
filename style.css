@@ -29,9 +29,10 @@ main img {
 }
 main p {
    border: 5px solid #0C5AA6;
+    margin:10px;
 }
 header img {
-    margin-left:450px;
+    margin-left:490px;
 }
 h1 {
 text-align: center;
@@ -44,4 +45,5 @@ footer {
 footer p {
     background-color:white;
     color:black;
+    margin:10px;
 }
