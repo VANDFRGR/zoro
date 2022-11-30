@@ -16,15 +16,20 @@ nav a {
 border-radius: 30px;
     padding:10px;
 }
-main img{
+main img {
     margin-left:331px;
 }
-main p{
+main p {
    border: 5px solid #0C5AA6;
 }
-header img{
+header img {
     margin-left:330px;
 }
 h1 {
 text-align: center;
+}
+footer {
+    background-color:#0776A0;
+    padding:10px;
+    color: white;
 }
