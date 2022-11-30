@@ -7,7 +7,7 @@ header{
    }
 .mainlink {
     border: 5px solid #58EE00;
-    border-radius: 30px;
+    border-radius: 20px;
     padding:10px;
     text-decoration: none;
     color:#58EE00;
@@ -19,7 +19,7 @@ nav a {
     margin-top:50px;
     margin-left:300px;
     border: 5px solid #000000;
-border-radius: 30px;
+border-radius: 20px;
     padding:10px;
      text-decoration: none;
     color: black;
@@ -31,7 +31,7 @@ main p {
    border: 5px solid #0C5AA6;
 }
 header img {
-    margin-left:380px;
+    margin-left:450px;
 }
 h1 {
 text-align: center;
