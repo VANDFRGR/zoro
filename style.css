@@ -9,6 +9,8 @@ header{
     border: 5px solid #58EE00;
     border-radius: 30px;
     padding:10px;
+    text-decoration: none;
+    color:#58EE00;
 }
 nav a {
     margin-top:20px;
@@ -16,6 +18,8 @@ nav a {
     border: 5px solid #000000;
 border-radius: 30px;
     padding:10px;
+     text-decoration: none;
+    color: black;
 }
 main img {
     margin-left:331px;
