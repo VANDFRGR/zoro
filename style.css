@@ -5,3 +5,11 @@ header{
     background-color:black;
     padding:10px;
    }
+.mainlink {
+    border: 5px solid #58EE00;
+    border-radius: 30px;
+}
+nav a {
+    border: 5px solid #000000;
+border-radius: 30px;
+}
